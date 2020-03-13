@@ -44,5 +44,8 @@ WHEN I view the title element
 THEN I find a concise, descriptive title DONE***
 ```
 
+## Screenshot
+
+![Screenshot of the project](https://raw.githubusercontent.com/CodingErik/Homework1/master/ScreenShot.png)
 
 
