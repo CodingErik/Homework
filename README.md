@@ -46,11 +46,12 @@ THEN I find a concise, descriptive title DONE***
 
 * Erik De Luna: Full Stack Developer 
 
+`
 > no installation required 
 
 > demo code 
 
-> contributions to the project 
+> contributions to the project `
 
 
 ## Screenshot
