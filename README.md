@@ -46,14 +46,6 @@ THEN I find a concise, descriptive title DONE***
 
 * Erik De Luna: Full Stack Developer 
 
-`
-> no installation required 
-
-> demo code 
-
-> contributions to the project `
-
-
 ## Screenshot
 
 ![Screenshot of the project](https://raw.githubusercontent.com/CodingErik/Homework1/master/ScreenShot.png)
