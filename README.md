@@ -1,5 +1,5 @@
 # 01 Marketing SEO Refactor
-* refactor a marketing page to be more SEO friendly
+>refactor a marketing page to be more SEO friendly
 
 This was a homework assigment where we refactored the HTML/CSS on a marketing website.
 
